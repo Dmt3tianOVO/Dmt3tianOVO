@@ -21,7 +21,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dmt3tianOVO&repo=AboutCommunication)](https://github.com/Dmt3tianOVO/AboutCommunication)
 
-> 🔗 项目演示视频：[点击观看](你的B站视频链接)
+> 🔗 项目演示视频：[点击观看](【不知道怎么开口？ 让 AI 帮你写成一封回信】 https://www.bilibili.com/video/BV1QVj66CENK/?share_source=copy_web&vd_source=22c143ebfe9c806138fc34d310440e38)
 
 ---
 
